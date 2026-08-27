@@ -1,0 +1,4 @@
+# Reproduction dependencies for Mac host tools
+pyserial==3.5
+numpy==2.5.2
+matplotlib==3.11.1

@@ -1,0 +1,90 @@
+#######################################
+# Syntax Coloring Map For DFRobot_BMI323
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DFRobot_BMI323	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+configAccel	KEYWORD2
+configGyro	KEYWORD2
+getAccelGyroData	KEYWORD2
+enableStepCounterInt	KEYWORD2
+readStepCounter	KEYWORD2
+getIntStatus	KEYWORD2
+enableAnyMotionInterrupt	KEYWORD2
+enableNoMotionInterrupt	KEYWORD2
+enableSigMotionInterrupt	KEYWORD2
+enableFlatInterrupt	KEYWORD2
+enableOrientationInterrupt	KEYWORD2
+enableTapInterrupt	KEYWORD2
+enableTiltInterrupt	KEYWORD2
+readTapStatus	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+eAccelRange2G	LITERAL1
+eAccelRange4G	LITERAL1
+eAccelRange8G	LITERAL1
+eAccelRange16G	LITERAL1
+eGyroRange125DPS	LITERAL1
+eGyroRange250DPS	LITERAL1
+eGyroRange500DPS	LITERAL1
+eGyroRange1000DPS	LITERAL1
+eGyroRange2000DPS	LITERAL1
+eAccelODR0_78125Hz	LITERAL1
+eAccelODR1_5625Hz	LITERAL1
+eAccelODR3_125Hz	LITERAL1
+eAccelODR6_25Hz	LITERAL1
+eAccelODR12_5Hz	LITERAL1
+eAccelODR25Hz	LITERAL1
+eAccelODR50Hz	LITERAL1
+eAccelODR100Hz	LITERAL1
+eAccelODR200Hz	LITERAL1
+eAccelODR400Hz	LITERAL1
+eAccelODR800Hz	LITERAL1
+eAccelODR1600Hz	LITERAL1
+eAccelODR3200Hz	LITERAL1
+eAccelODR6400Hz	LITERAL1
+eGyroODR0_78125Hz	LITERAL1
+eGyroODR1_5625Hz	LITERAL1
+eGyroODR3_125Hz	LITERAL1
+eGyroODR6_25Hz	LITERAL1
+eGyroODR12_5Hz	LITERAL1
+eGyroODR25Hz	LITERAL1
+eGyroODR50Hz	LITERAL1
+eGyroODR100Hz	LITERAL1
+eGyroODR200Hz	LITERAL1
+eGyroODR400Hz	LITERAL1
+eGyroODR800Hz	LITERAL1
+eGyroODR1600Hz	LITERAL1
+eGyroODR3200Hz	LITERAL1
+eGyroODR6400Hz	LITERAL1
+eAccelModeLowPower	LITERAL1
+eAccelModeNormal	LITERAL1
+eAccelModeHighPerf	LITERAL1
+eGyroModeLowPower	LITERAL1
+eGyroModeNormal	LITERAL1
+eGyroModeHighPerf	LITERAL1
+eINT1	LITERAL1
+eINT2	LITERAL1
+eAxisX	LITERAL1
+eAxisY	LITERAL1
+eAxisZ	LITERAL1
+eAxisXYZ	LITERAL1
+ERR_OK	LITERAL1
+ERR_DATA_BUS	LITERAL1
+ERR_IC_VERSION	LITERAL1

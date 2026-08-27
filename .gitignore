@@ -1,0 +1,7 @@
+# Local tooling and build outputs
+.venv/
+__pycache__/
+*.pyc
+
+# Keep source artifacts, exclude regenerated build output from a future Git repository.
+build/

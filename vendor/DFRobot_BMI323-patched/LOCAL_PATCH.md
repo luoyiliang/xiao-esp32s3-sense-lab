@@ -18,4 +18,4 @@ With two SEN0693 modules on GPIO5/GPIO6 at `0x68` and `0x69`, both addresses ini
 
 ## Caution
 
-This is a local working patch, not an upstream contribution or a general compatibility guarantee. Preserve the upstream clone at `/tmp/DFRobot_BMI323` for diff/reference. Re-test after changing Arduino-ESP32 core versions.
+This is a local working patch, not an upstream contribution or a general compatibility guarantee. Preserve the vendored upstream snapshot at `vendor/DFRobot_BMI323-upstream` for diff/reference. Re-test after changing Arduino-ESP32 core versions.
